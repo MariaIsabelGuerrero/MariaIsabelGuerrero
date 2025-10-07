@@ -35,12 +35,6 @@ Cloud & container orchestration
 
 ---
 
-## 📬 How to Reach Me  
-- Email: *[mariaigs2005@gmail.com]*  
-- LinkedIn: *[https://www.linkedin.com/in/maria-isabel-guerrero-754114303/]*  
-
----
-
 
 ## 📈 GitHub Stats  
 ![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaIsabelGuerrero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE&text_color=FFFFFF)
@@ -48,6 +42,12 @@ Cloud & container orchestration
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabelGuerrero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaIsabelGuerrero&theme=tokyonight&hide_border=true&background=0D1117&currStreakLabel=70A5FD&fire=FF6A00)
+
+---
+
+## 📬 How to Reach Me  
+- Email: *[mariaigs2005@gmail.com]*  
+- LinkedIn: *[https://www.linkedin.com/in/maria-isabel-guerrero-754114303/]*  
 
 ---
 
